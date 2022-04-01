@@ -5,7 +5,7 @@ This weeks challenge was to take the starter code and create a Budget Tracker ap
 https://github.com/ThomBurt/19-Budget-Tracker-PWA-TB
 
 ## Heroku URL
-https://strawberry-pie-22333.herokuapp.com/ | https://git.heroku.com/strawberry-pie-22333.git
+https://lychee-cake-71289.herokuapp.com/ | https://git.heroku.com/lychee-cake-71289.git
 
 ## User Story
 AS AN avid traveler

@@ -1,0 +1,27 @@
+{
+  "name": "19-budget-tracker-pwa-tb",
+  "version": "1.0.0",
+  "description": "This weeks challenge was to take the starter code and create a Budget Tracker app that allows a user to track income and expenses online and offline.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomBurt/19-PWA-Budget_Tracker_NEW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomBurt/19-PWA-Budget_Tracker_NEW/issues"
+  },
+  "homepage": "https://github.com/ThomBurt/19-PWA-Budget_Tracker_NEW#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
+}
